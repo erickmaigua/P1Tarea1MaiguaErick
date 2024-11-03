@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1730654431 source:c:\users\asus\onedrive\escritorio\p1tarea1maiguaerick\main.cpp
-	<iostream>
-	<fstream>
-	<vector>
-	<limits>
-
